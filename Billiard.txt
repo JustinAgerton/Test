@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-logo="", tvg-id="ksport1hd" group-title="DAZN", Billiards TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, ) Roku/DVP-12.0 Chromecast/79.0.3945.79 Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-511/stream.mpd
+
+
+#EXTINF:-1 tvg-logo="", tvg-id="ksport1hd" group-title="DAZN", Billiards TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},"type":"temporary"}
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-511/stream.mpd
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="DAZN Sports US" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1ayg9qcl0minb1kyxmx2yqrq5e_image-header_pRow_1715784907000",Billiard TV  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"},"type":"temporary"}
+https://vip.ottotv.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDgyOTQ2NzUiLCJyZWZyZXNoX3Rva2VuIjoiUDFTYnd4b25HbHI0cE5rNGlOajNcL1FZNHA1Z3I2eFhNRE90XC9qbGpYM1J2VVFhN1E5RFZhbFBXNHM2SFBkVllwcVVEM1wvczdvWlBjMWhLeVVWazRtSXphZitHcmdEeDF0WnlXblFzTXJscjJMNVpEaGliZGpiMjhxZHV2cTdlQWRXaGFLZjJYU1wvK2JwZ1wvN1h5OHpNTDZ4SEZPXC9aTXozbGVLdUpcLzNwXC9SUmZIQjA0UzgxWjlTUDY1VkZcL25udHF0UlNkM29rOTNYWFVVZmFrdld2VDM1UGgzcFg1U0F5N2pCbkdsaUFmQ2h2NVRGeGhFZkFxTmlpZjdSeFAzXC84NWFLaGNjemJmM3hmUlJubmV2Qmp0MjRaS2J1QXBiZHMyNzdOZDB5YXJmdjVnRkJpV0Q0TlJZY2ZLeHVcL2Q2eEJrOW9nbFc2eXZFRlpwNCtIN2dQRTNkeVFLaVVKZTd6Z2FUV1M4RFJibDdcL2JBPSJ9
